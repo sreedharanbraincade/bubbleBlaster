@@ -95,3 +95,7 @@ main {
     flex-direction: column;
   }
 }
+
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
